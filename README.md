@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ## nyit_csci502_profBhatt
+=======
+# nyit_csci502_profBhatt
+>>>>>>> 9cab388a1c3c4e33b3b2725cc99cdabb87a82a87
 
 
 <a id="Top"></a>

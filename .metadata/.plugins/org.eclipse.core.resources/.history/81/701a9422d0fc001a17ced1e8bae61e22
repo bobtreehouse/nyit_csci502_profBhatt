@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class Unary {
+ 
+		public static void main(String[] args) {
+			// TODO Auto-generated method stub
+			Scanner myScanner = new Scanner(System.in);
+	        String userInput;
+	        int userInt=0;
+	        
+	        try {
+	        	System.out.println("Please enter an intger and I will add 1 to it: ");
+	            userInput = myScanner.nextLine();
+	            userInt = Integer.parseInt(userInput);
+	        } catch (NumberFormatException n){
+	        	System.out.println("Please try again with a whole number: ");
+	        
+	        }finally {
+	        	System.out.println("The number you enter +1 is equal to: " + 1+userInt);
+	        }
+		}
+		
+}
+
+
+	        
+ 
+
+		
