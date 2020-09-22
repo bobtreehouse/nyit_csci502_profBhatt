@@ -17,7 +17,7 @@ public class Unary {
 	        	x=myScanner.nextInt() + 1;
 				error=false;
 	        	 
-				}  catch(InputMismatchException e)
+	     }  catch(InputMismatchException e)
 				{
 				// accept integer only.
 				System.out.println("Please use a whole number only: ");
@@ -30,6 +30,6 @@ public class Unary {
 }
 
 	        
- // validate user input is an integer.
+ 
 
 		
