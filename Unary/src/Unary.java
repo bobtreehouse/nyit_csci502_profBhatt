@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
@@ -31,5 +32,3 @@ public class Unary {
 
 	        
  // validate user input is an integer.
-
-		
