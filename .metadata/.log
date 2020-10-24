@@ -7839,6 +7839,7 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+<<<<<<< HEAD
 !SESSION 2020-10-23 13:56:21.888 -----------------------------------------------
 eclipse.buildId=4.16.0.I20200604-0540
 java.version=12.0.1
@@ -7889,3 +7890,5 @@ java.lang.Exception: The project description file (.project) for 'HomeWorkWeek4_
 	at org.eclipse.ui.actions.OpenResourceAction$1.runInWorkspace(OpenResourceAction.java:279)
 	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+=======
+>>>>>>> e4658ffdebc50850baf34c3f951d2bf97175b02c
