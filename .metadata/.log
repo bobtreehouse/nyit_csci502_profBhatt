@@ -7892,6 +7892,7 @@ java.lang.Exception: The project description file (.project) for 'HomeWorkWeek4_
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
 =======
 >>>>>>> e4658ffdebc50850baf34c3f951d2bf97175b02c
+<<<<<<< HEAD
 !SESSION 2020-10-26 07:10:54.964 -----------------------------------------------
 eclipse.buildId=4.16.0.I20200604-0540
 java.version=12.0.1
@@ -8037,3 +8038,5 @@ org.xml.sax.SAXParseException; lineNumber: 5; columnNumber: 2; The content of el
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656)
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594)
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:177)
+=======
+>>>>>>> origin/master
