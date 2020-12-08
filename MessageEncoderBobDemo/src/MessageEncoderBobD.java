@@ -7,6 +7,6 @@ public class MessageEncoderBobD {
 		SubstitutionCipher testMessage = new SubstitutionCipher(3);
 		 
 		//System.out.println(aCipher.shifter('a'));
-		System.out.println(testMessage.shifter('a'));
+		System.out.println(testMessage.shifter('e'));
 	}
 }
