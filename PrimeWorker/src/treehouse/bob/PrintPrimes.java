@@ -4,7 +4,6 @@ import java.util.ArrayList;
 public class PrintPrimes   {
  
 	public PrintPrimes(int limit) {
-		super();
 		this.limit = limit;
 	}
 

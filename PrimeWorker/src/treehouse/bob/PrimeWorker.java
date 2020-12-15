@@ -44,6 +44,12 @@ public class PrimeWorker {
 	        //the scanner took in a String - we need to convert that to an Integer:
 	        userInt = Integer.parseInt(userInput);
 	        
+	        /*Integer is wrapper class of primitives type int and parseInt() is a static method of wrapper class Integer 
+	         * which returns equivalent int or integral value of string given as parameter.
+	         * parseInt() method would prompt NumberFormatException during runtime if it is become 
+	         * failed to convert string into int. can have NULLS unlike Strings; better for backend DB
+	         * */
+	        
 	    	} while(userInt < 2 || userInt > 1000);
 	    
 	        /*
@@ -80,6 +86,6 @@ public class PrimeWorker {
 	    }
 	
 		
-
 	}
+
 
